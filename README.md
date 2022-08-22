@@ -7,9 +7,9 @@
    - Tomás Ezequiel Reyes:
      - Usuario GitHub: tomreyes
      - Legajo: 1678462
-   - Nombre:
-     - Usuario GitHub: 
-     - Legajo: 
+   - Ezequiel Ilan Litvak:
+     - Usuario GitHub: ketzeLitvak
+     - Legajo: 2037774
    - Nombre:
      - Usuario GitHub: 
      - Legajo: 
